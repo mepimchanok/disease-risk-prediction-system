@@ -1,0 +1,7 @@
+{
+  "target_col": "Outcome",
+  "input_dim": 8,
+  "best_threshold": 0.44000000000000006,
+  "roc_auc": 0.8162962962962963,
+  "seed": 42
+}

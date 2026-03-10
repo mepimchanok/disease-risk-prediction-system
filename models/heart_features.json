@@ -1,0 +1,19 @@
+{
+  "target_col": "num",
+  "feature_cols": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalch",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "seed": 42
+}

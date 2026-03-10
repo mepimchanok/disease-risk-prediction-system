@@ -1,0 +1,7 @@
+{
+  "target_col": "num",
+  "input_dim": 13,
+  "best_threshold": 0.4000000000000002,
+  "roc_auc": 0.9075801052128167,
+  "seed": 42
+}
