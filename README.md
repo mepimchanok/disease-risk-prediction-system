@@ -8,8 +8,7 @@ The system allows users to explore the modeling process, compare model performan
 
 # 🚀 Live Web Application
 
-🔗 https://YOUR-STREAMLIT-LINK.streamlit.app
-
+🔗https://disease-risk-prediction-system.streamlit.app/
 ---
 
 # 📌 Project Overview
