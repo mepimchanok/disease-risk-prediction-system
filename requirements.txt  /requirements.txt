@@ -3,5 +3,6 @@ pandas
 numpy
 scikit-learn
 tensorflow
-plotly
 joblib
+matplotlib
+plotly
