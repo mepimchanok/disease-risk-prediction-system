@@ -8,7 +8,8 @@ The system allows users to explore the modeling process, compare model performan
 
 # 🚀 Live Web Application
 
-🔗https://disease-risk-prediction-system.streamlit.app/
+🔗 https://disease-risk-prediction-system.streamlit.app/
+
 ---
 
 # 📌 Project Overview
@@ -17,17 +18,19 @@ This project was developed to explore machine learning approaches for **medical 
 
 Two different modeling strategies were implemented and compared:
 
-### 1️⃣ Ensemble Machine Learning
+## 1️⃣ Ensemble Machine Learning
+
 Combines multiple classical machine learning models:
 
 - Logistic Regression
 - Random Forest
 - Gradient Boosting
 
-These models are combined using a **Soft Voting Ensemble** to improve prediction performance.
+These models are combined using a **Soft Voting Ensemble** to improve prediction performance and robustness.
 
-### 2️⃣ Neural Network
-A **Feedforward Neural Network** implemented using **TensorFlow / Keras**.
+## 2️⃣ Neural Network
+
+A **Feedforward Neural Network** implemented using **TensorFlow / Keras** to learn nonlinear patterns in medical data.
 
 ---
 
@@ -35,7 +38,8 @@ A **Feedforward Neural Network** implemented using **TensorFlow / Keras**.
 
 The web interface includes several sections:
 
-### 🧠 ML Approach
+## 🧠 ML Approach
+
 Explains the machine learning workflow including:
 
 - Dataset preparation
@@ -45,22 +49,26 @@ Explains the machine learning workflow including:
 
 ---
 
-### 🤖 Neural Network Approach
+## 🤖 Neural Network Approach
+
 Describes the neural network architecture and training process.
 
 ---
 
-### 🧪 Test ML Model
+## 🧪 Test ML Model
+
 Allows users to input medical features and test predictions using the **Ensemble Machine Learning model**.
 
 ---
 
-### 🧪 Test NN Model
+## 🧪 Test NN Model
+
 Allows users to test predictions using the **Neural Network model**.
 
 ---
 
-### 📊 Model Comparison
+## 📊 Model Comparison
+
 Compares both models using multiple evaluation metrics:
 
 - Accuracy
@@ -75,4 +83,18 @@ The system also recommends the **best model based on F1-score**.
 
 ---
 
-# 📂 Project Structure
+# 🖥 Application Interface
+
+You can try the system online:
+
+https://disease-risk-prediction-system.streamlit.app/
+
+Example dashboard interface:
+
+*(Add screenshot here if needed)*
+
+---
+
+# 💻 Run the Project Locally
+
+Clone the repository
